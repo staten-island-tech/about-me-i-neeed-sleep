@@ -6,3 +6,9 @@ body,
   margin: 0;
   box-sizing: border-box;
 }
+
+body {
+  background-color: #34224b;
+  color: white;
+  font-family: Arial, sans-serif;
+}
