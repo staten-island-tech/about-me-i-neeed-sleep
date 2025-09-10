@@ -1,14 +1,26 @@
 html,
 body,
 * {
-  font-size: 10px;
-  padding: 0;
-  margin: 0;
+  margin-left: 20;
   box-sizing: border-box;
 }
 
 body {
-  background-color: #34224b;
-  color: white;
-  font-family: Arial, sans-serif;
+  background-color: #22312e;
+  color: rgb(193, 218, 212);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+}
+
+button {
+  font-size: 15px;
+  font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue';
+  background-color:rgb(66, 91, 94);
+  color: rgb(193, 218, 212);
+}
+
+.box {
+  background-color: #14201e;
+  width: 40rem;
+  height: 17rem;
+  padding:0.5rem;
 }
